@@ -1,5 +1,3 @@
 Some text.
 
 Some more text.
-
-Additional text to diff.
