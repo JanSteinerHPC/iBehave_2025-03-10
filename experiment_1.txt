@@ -1,5 +1,3 @@
 Some text.
 
 Some more text.
-
-Third change for optional revert exercise.
